@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kelompok 11 - Desain UI/UX &amp; Pemrograman Web</title>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header id="atas">
+        <h1>Kelompok 11</h1>
+        <p>Desain UI/UX &amp; Pemrograman Web</p>
+    </header>
+    <hr/>
+
+    <main>
+
+            <h2>Intro</h2>
+            <p>
+                Kami dari kelompok 11 dan ini merupakan web dari kelompok kami di praktikum mata kulaih desain UI/UX
+            </p>
+        </section>
+        <hr/>
+
+        <!-- ANGGOTA 1 -->
+        <article id="anggota-1">
+            <header>
+                <h3>Nama Anggota 1</h3>
+            </header>
+            <figure>
+                <img src="assets/img/anggota1.jpg" alt="Foto Nama Anggota 1" width="150" height="180">
+            </figure>
+            <table>
+                <tbody>
+                    <tr><th align="left">Nama Lengkap</th><td>: Thoifattan Faiz Ramadhan</td></tr>
+                    <tr><th align="left">NIM</th><td>: 0110226141</td></tr>
+                    <tr><th align="left">Tanggal Lahir</th><td>: 28 September 2007</td></tr>
+                    <tr><th align="left">Program Studi</th><td>: Teknik Informatika</td></tr>
+                    <tr><th align="left">Email</th><td>: Thoifattan@gmail.com</td></tr>
+                    <tr><th align="left">Hobi</th><td>: Olahraga lari</td></tr>
+                </tbody>
+            </table>
+            <aside>Motto: Jadi orang baik dan bersyukur.</aside>
+        </article>
+        <hr/>
+
+        <!-- ANGGOTA 2 -->
+        <article id="anggota-2">
+            <header>
+                <h3>Nama Anggota 2</h3>
+            </header>
+            <figure>
+                <img src="assets/img/anggota2.jpg" alt="Foto Nama Anggota 2" width="150" height="180">
+            </figure>
+            <table>
+                <tbody>
+                    <tr><th align="left">Nama Lengkap</th><td>: Sofwatunnisa</td></tr>
+                    <tr><th align="left">NIM</th><td>: 011002</td></tr>
+                    <tr><th align="left">Tanggal Lahir</th><td>: 21 Juli 2006</td></tr>
+                    <tr><th align="left">Program Studi</th><td>: Teknik Informatika</td></tr>
+                    <tr><th align="left">Email</th><td>: anggota2@email.com</td></tr>
+                    <tr><th align="left">Hobi</th><td>: Menggambar </td></tr>
+                </tbody>
+            </table>
+            <aside>Motto: tulis motto atau kesan singkat anggota 2 di sini. </aside>
+        </article>
+        <hr/>
+
+        <!-- ANGGOTA 3 -->
+        <article id="anggota-3">
+            <header>
+                <h3>Nama Anggota 3</h3>
+            </header>
+            <figure>
+                <img src="assets/img/anggota3.jpg" alt="Foto Nama Anggota 3" width="150" height="180">
+            </figure>
+            <table>
+                <tbody>
+                    <tr><th align="left">Nama Lengkap</th><td>: Sykina Rahma Azalia</td></tr>
+                    <tr><th align="left">NIM</th><td>: 011003</td></tr>
+                    <tr><th align="left">Tanggal Lahir</th><td>: 11 Ferbruari 2008</td></tr>
+                    <tr><th align="left">Program Studi</th><td>: Teknik Informatika</td></tr>
+                    <tr><th align="left">Email</th><td>: anggota3@email.com</td></tr>
+                    <tr><th align="left">Hobi</th><td>: Olahraga</td></tr>
+                </tbody>
+            </table>
+            <aside>Motto: tulis motto atau kesan singkat anggota 3 di sini.</aside>
+        </article>
+        <hr/>
+
+        <!-- ANGGOTA 4 -->
+        <article id="anggota-4">
+            <header>
+                <h3>Nama Anggota 4</h3>
+            </header>
+            <figure>
+                <img src="assets/img/anggota4.jpg" alt="Foto Nama Anggota 4" width="150" height="180">
+            </figure>
+            <table>
+                <tbody>
+                    <tr><th align="left">Nama Lengkap</th><td>: Syeikhal Islami</td></tr>
+                    <tr><th align="left">NIM</th><td>: 011003</td></tr>
+                    <tr><th align="left">Tanggal Lahir</th><td>: 5 Desember 2007</td></tr>
+                    <tr><th align="left">Program Studi</th><td>: Teknik Informatika</td></tr>
+                    <tr><th align="left">Email</th><td>: anggota3@email.com</td></tr>
+                    <tr><th align="left">Hobi</th><td>: Memasak </td></tr>
+                </tbody>
+            </table>
+            <aside>Motto: tulis motto atau kesan singkat anggota 4 di sini.</aside>
+        </article>
+        <hr/>
+
+        <!-- ANGGOTA 5 -->
+        <article id="anggota-5">
+            <header>
+                <h3>Nama Anggota 5</h3>
+            </header>
+            <figure>
+                <img src="assets/img/anggota5.jpg" alt="Foto Nama Anggota 5" width="150" height="180">
+            </figure>
+            <table>
+                <tbody>
+                    <tr><th align="left">Nama Lengkap</th><td>: Syifa Maharani</td></tr>
+                    <tr><th align="left">NIM</th><td>: 011003</td></tr>
+                    <tr><th align="left">Tanggak Lahir</th><td>: 3 November 2007</td></tr>
+                    <tr><th align="left">Program Studi</th><td>: Teknik Informatika</td></tr>
+                    <tr><th align="left">Email</th><td>: anggota3@email.com</td></tr>
+                    <tr><th align="left">Hobi</th><td>: Badminton </td></tr>
+                </tbody>
+            </table>
+            <aside>Motto: tulis motto atau kesan singkat anggota 3 di sini.</aside>
+        </article>
+        <hr/>
+
+        <!-- ANGGOTA 6 -->
+        <article id="anggota-6">
+            <header>
+                <h3>Nama Anggota 6</h3>
+            </header>
+            <figure>
+                <img src="assets/img/anggota6.jpg" alt="Foto Nama Anggota 6" width="150" height="180">
+            </figure>
+            <table>
+                <tbody>
+                    <tr><th align="left">Nama Lengkap</th><td>: Wahid Sofiana</td></tr>
+                    <tr><th align="left">NIM</th><td>: 011003</td></tr>
+                    <tr><th align="left">Tanggal Lahir</th><td>: 2 Agustus 2007</td></tr>
+                    <tr><th align="left">Program Studi</th><td>: Teknik Informatika</td></tr>
+                    <tr><th align="left">Email</th><td>: anggota3@email.com</td></tr>
+                    <tr><th align="left">Hobi</th><td>: Otomotif</td></tr>
+                </tbody>
+            </table>
+            <aside>Motto: tulis motto atau kesan singkat anggota 6 di sini.</aside>
+        </article>
+        <hr/>
+
+
